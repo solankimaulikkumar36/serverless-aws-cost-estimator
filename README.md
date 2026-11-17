@@ -113,5 +113,5 @@ Add your screenshots to a `screenshots/` folder and link them here:
 - Support more services (RDS, DynamoDB) and regions
 - Fetch live prices from the AWS Price List API
 
-## Author
-Your Name | [GitHub](https://github.com/YOUR_USERNAME) | [LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+2
+

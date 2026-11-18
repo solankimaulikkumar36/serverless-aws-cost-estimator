@@ -7,12 +7,12 @@
 				"dynamodb:PutItem",
 				"dynamodb:Scan"
 			],
-			"Resource": "arn:aws:dynamodb:ap-south-1:230650391421:table/CostEstimates"
+			"Resource": "your Database ARN"
 		},
 		{
 			"Effect": "Allow",
 			"Action": "sns:Publish",
-			"Resource": "arn:aws:sns:ap-south-1:230650391421:BudgetAlerts"
+			"Resource": "your SNS ARN"
 		}
 	]
 }

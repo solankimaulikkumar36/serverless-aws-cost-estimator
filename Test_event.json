@@ -1,0 +1,9 @@
+{
+  "ec2_hours": 730,
+  "ec2_type": "t3.micro",
+  "s3_gb": 50,
+  "lambda_requests": 2000000,
+  "lambda_memory_mb": 512,
+  "lambda_duration_ms": 200,
+  "data_transfer_gb": 150
+}
